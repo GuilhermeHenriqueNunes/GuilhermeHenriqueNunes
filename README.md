@@ -85,17 +85,6 @@ Possuo **inglês avançado (B2)**, consolidado através de intercâmbio na EC Mo
 
 ---
 
-## 🔭 Próximos Passos — Área de Dados
-
-Estou construindo meu portfólio de projetos aplicados à engenharia e análise de dados. Os próximos laboratórios incluem:
-
-- 🔄 **Pipelines de Ingestão e ETL** com Python e SQL.
-- 🏗️ **Data Warehousing** e Modelagem Dimensional.
-- 📈 **Análise Exploratória e Visualização de Dados** — datasets reais com Pandas, Matplotlib e Seaborn.
-- 🤖 **IA Aplicada** — experimentação com modelos e automação inteligente.
-
----
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
